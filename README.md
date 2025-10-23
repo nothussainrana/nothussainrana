@@ -1,7 +1,6 @@
-# nothussainrana
-## ⛩ Welcome to my Dojo ⛩
-### 🏗 I create Web Applications using TS, JS, React.js, php, Laravel, WordPress, HTML, and CSS 🏗
-### ✍ I'm currently actively building up my portfolio so stay tuned for what's to come! ✍
+# Hussain Rana
+## ⛩ Welcome to the Dojo ⛩
+### I've built apps with Typescript, Javascript, NextJS, React.js, php, WordPress, HTML, and CSS 🏗
 
 <!--
 **nothussainrana/nothussainrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
