@@ -30,7 +30,7 @@
  ```
   
 ## Other Stuff
-  - :octocat: [My Resume]([https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link](https://drive.google.com/file/d/12CgQq2No9ZNCNoWFMF8EgfyKAvt4CcFI/view?usp=sharing))
+  - :octocat: [My Resume](https://drive.google.com/file/d/12CgQq2No9ZNCNoWFMF8EgfyKAvt4CcFI/view?usp=sharing)
 
 ![Hussain's github stats](https://github-readme-stats.vercel.app/api?username=nothussainrana&show_icons=true&hide=[%22issues%22])
  
